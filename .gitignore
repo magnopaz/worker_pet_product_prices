@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/src/.vs/PetProductPrices/src/.vscode
+/src/PetProductPricesWorker/bin
+/src/PetProductPricesWorker/obj
+.vscode/

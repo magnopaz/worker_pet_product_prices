@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj": {}
+    "D:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj": {}
   },
   "projects": {
-    "d:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj": {
+    "D:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj",
+        "projectUniqueName": "D:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj",
         "projectName": "PetProductPricesWorker",
-        "projectPath": "d:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj",
+        "projectPath": "D:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\PetProductPricesWorker.csproj",
         "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
-        "outputPath": "d:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\obj\\",
+        "outputPath": "D:\\IGTI\\Workers\\worker_pet_product_prices\\src\\PetProductPricesWorker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -50,6 +50,14 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[89.0.4389.2300, )"
             }
           },
           "imports": [
